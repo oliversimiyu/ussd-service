@@ -310,8 +310,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For questions or support:
-- Email: support@insurance.com
-- Phone: 0800-123-456
+- Email: oliverwafula2020@gmail.com
+- Phone: +254710500108
 - Hours: Mon-Fri 8AM-6PM
 
 ## 🗺️ Roadmap
