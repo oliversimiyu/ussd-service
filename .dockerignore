@@ -1,0 +1,21 @@
+# Docker build context ignore
+.dockerignore
+.git
+.gitignore
+.vs
+.vscode
+*/bin
+*/obj
+**/.toolstarget
+**/.vscode
+**/node_modules
+README.md
+LICENSE
+.env
+docker-compose.yml
+docker-compose.*.yml
+Dockerfile
+*.md
+*.db
+*.db-shm
+*.db-wal
